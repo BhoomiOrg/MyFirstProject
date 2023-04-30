@@ -3,3 +3,5 @@
 2) I have cloned github repository in vs code.
 
 3) Linked GitHub with Azure Devops repository.
+
+change applied.
